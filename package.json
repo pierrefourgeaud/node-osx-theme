@@ -1,6 +1,6 @@
 {
   "name": "osx-theme",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Theme management module for OSX",
   "main": "index.js",
   "gypfile": true,

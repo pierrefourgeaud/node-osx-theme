@@ -1,5 +1,5 @@
 
-#include "./dark-mode.h"
+#include "./osx-theme.h"
 
 #import <Foundation/Foundation.h>
 
