@@ -1,0 +1,34 @@
+{
+  "name": "osx-theme",
+  "version": "0.0.1",
+  "description": "Theme management module for OSX",
+  "main": "index.js",
+  "gypfile": true,
+  "scripts": {
+    "postinstall": "node scripts/clean.js"
+  },
+  "dependencies": {
+    "node-gyp": "^3.0.3",
+    "rimraf": "^2.4.3"
+  },
+  "os": [
+    "darwin"
+  ],
+  "keywords": [
+    "cli-app",
+    "cli",
+    "bin",
+    "osx",
+    "dark",
+    "mode",
+    "darkmode",
+    "dark-mode",
+    "theme",
+    "darwin",
+    "menubar"
+  ],
+  "author": "Pierre Fourgeaud",
+  "license": "MIT",
+  "bugs": {},
+  "homepage": "http://pierrefourgeaud.com"
+}
