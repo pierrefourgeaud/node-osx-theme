@@ -27,8 +27,12 @@
     "darwin",
     "menubar"
   ],
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/pierrefourgeaud/node-osx-theme.git"
+  },
   "author": "Pierre Fourgeaud",
   "license": "MIT",
   "bugs": {},
-  "homepage": "http://pierrefourgeaud.com"
+  "homepage": "https://github.com/pierrefourgeaud/node-osx-theme#readme"
 }
